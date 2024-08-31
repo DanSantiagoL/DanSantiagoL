@@ -1,5 +1,7 @@
-<h1 align="center"> Hi, I'm Daniel 👋</h1>
-<h1 align="left">🚀 About Me</h1>
+<h1 align="center"><img height="55" src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"> Hi, I'm Daniel 👋</h1>    
+
+      
+<h1><img height="45" src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwNzYyMjQsIm5iZiI6MTcyNTA3NTkyNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMxVDAzNDUyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMmRmODM2OTY2NjQ1N2VkZTNiNmIxOGVjMzQ1MDJlZDRlM2JiZjdiYzc5NmU1Mjc3YTMyMDQ5OGE2OWIxZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dzLnGMnKVouY3b2hqlohJrjHQfSrtuP-MlL-IrRmtEA">About Me</h1>
 
 - 🔭 I’m currently working on my skills in backend development in Python.
 - 📫 How to contact me: You can contact me through my email: <a href="mailto:daniel.dev.lopez@gmail.com" target="_blank">Email</a> or through my LinkedIn profile: <a href="https://www.linkedin.com/in/daniel-lopez-1820d/" target="_blank">LinkedIn</a>
@@ -10,6 +12,7 @@
 
   <div align="center">
     
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
